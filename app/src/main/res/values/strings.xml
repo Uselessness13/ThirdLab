@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ThirdLab</string>
+    <string name="enterUserName">Имя пользователя</string>
+    <string name="name">Name</string>
+    <string name="phone">Телефон</string>
+    <string name="little">Маленькая</string>
+    <string name="middle">Средняя</string>
+    <string name="big">Большая</string>
+    <string name="ham">Ветчина</string>
+    <string name="cheese">Сыр</string>
+    <string name="mushrooms">Грибы</string>
+    <string name="ananas">Ананасы</string>
+    <string name="cash">Наличные</string>
+    <string name="card">Банковсая карта</string>
+    <string name="eMoney">Электронные деньги</string>
+    <string name="cashCourier">Наличными курьеру</string>
+    <string name="cardCourier">Картой курьеру</string>
+    <string name="emailQuestion">Отправить копию заказа на электронную почту?</string>
+    <string name="filler">Выберите наполнитель</string>
+    <string name="size">Выберите размер</string>
+    <string name="email_switch">Отправить на e-mail</string>
+    <string name="e_mail">Введите e-mail</string>
+    <string name="cvv_cvc2">cvv/cvv2</string>
+    <string name="date_card">Дата</string>
+    <string name="card_number">Номер карты</string>
+    <string name="txtResult">Итого</string>
+    <string name="button">Оформить заказ</string>
+</resources>
